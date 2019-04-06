@@ -1,0 +1,25 @@
+.form-wrapper{
+    width: 650px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 25px;
+    background-color: rgba(255,255,255,0.8);
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.3);
+    border: 1px solid #f3f1f1;
+}
+.form-wrapper form{
+    margin-bottom: 0;
+}
+.form-wrapper .form-title{
+    margin-top: 0;
+    margin-bottom: 10px;
+    color: #D24333;
+    font: 30px 'proximanovaregularwebfont';
+}
+.form-wrapper .form-control{
+    border-radius: 0;
+    letter-spacing: 1.5px;
+}
+.btn{
+    border-radius: 0;
+}
